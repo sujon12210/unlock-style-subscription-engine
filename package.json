@@ -1,0 +1,10 @@
+{
+  "name": "unlock-style-subscriptions",
+  "version": "1.0.0",
+  "description": "Time-bound NFT memberships and access control",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
